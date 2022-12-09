@@ -1,0 +1,1938 @@
+@font-face {
+  font-family: 'Ara Jozoor';
+  src: url('AraJozoor-Regular.eot');
+  src: url('AraJozoor-Regular.eot?#iefix') format('embedded-opentype'),
+    url('AraJozoor-Regular.woff2') format('woff2'),
+    url('AraJozoor-Regular.woff') format('woff'),
+    url('AraJozoor-Regular.ttf') format('truetype'),
+    url('AraJozoor-Regular.svg#AraJozoor-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Archer';
+  src: url('Archer-Bold.eot');
+  src: url('Archer-Bold.eot?#iefix') format('embedded-opentype'),
+    url('Archer-Bold.woff2') format('woff2'),
+    url('Archer-Bold.woff') format('woff'),
+    url('Archer-Bold.ttf') format('truetype'),
+    url('Archer-Bold.svg#Archer-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Archer Book';
+  src: url('Archer-Book.eot');
+  src: url('Archer-Book.eot?#iefix') format('embedded-opentype'),
+    url('Archer-Book.woff2') format('woff2'),
+    url('Archer-Book.woff') format('woff'),
+    url('Archer-Book.ttf') format('truetype'),
+    url('Archer-Book.svg#Archer-Book') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+html {
+  margin: 0px !important;
+  padding: 0px !important;
+}
+body {
+  font-family: 'Archer';
+  font-weight: normal;
+  font-style: normal;
+}
+a {
+  text-decoration: none !important;
+  transition: 0.3s;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+}
+header.sticky {
+  box-shadow: 0 15px 25px rgb(0 0 0 / 16%);
+  background-color: #fff;
+}
+.Header.sticky ul li a {
+  color: #d50132;
+  font-size: 18px;
+  display: block;
+  font-family: 'Ara Jozoor';
+  padding: 18px 20px;
+  position: relative;
+}
+header.sticky .Header {
+  padding: 10px 0px;
+}
+header.sticky .Fl-Logo img {
+  max-width: 100px;
+}
+.container {
+  max-width: 1340px;
+}
+.hero.owl-theme .owl-nav.disabled + .owl-dots {
+  margin-top: 0;
+  position: absolute;
+  bottom: 20px;
+  left: 0px;
+  width: 100%;
+}
+
+.hero.owl-theme .owl-dots .owl-dot span {
+  width: 15px;
+  height: 15px;
+  border: 2px solid #fff;
+  box-shadow: 0 15px 25px rgb(0 0 0 / 16%);
+}
+button,
+a {
+  outline: none !important;
+}
+.hero.owl-theme .owl-dots .owl-dot.active span,
+.hero.owl-theme .owl-dots .owl-dot:hover span {
+  background: #d50132;
+}
+.Fl-Logo img {
+  max-width: 150px;
+  transition: 0.3s;
+}
+
+.Header {
+  padding: 20px 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Header ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.Header ul li {
+  display: inline-block;
+}
+.Header ul li a {
+  color: #d50132;
+  font-size: 19px;
+  display: block;
+  font-family: 'Ara Jozoor';
+  padding: 20px 20px;
+  position: relative;
+}
+.Header ul li:last-child a {
+  background-color: #d50132;
+  padding: 7px 30px;
+  color: #fff;
+  font-size: 17px;
+  border-radius: 38px;
+  box-shadow: 0 15px 25px rgb(0 0 0 / 16%);
+  border: 2px solid #fff;
+  min-width: 140px;
+  text-align: center;
+  margin-left: 30px;
+}
+.Header ul li a:hover:after,
+.Header ul li a.active:after {
+  content: '';
+  width: 33.33%;
+  height: 3px;
+  background-color: #d50132;
+  position: absolute;
+  top: 100%;
+  left: 33.33%;
+  transition: 0.3s;
+  border-radius: 3px;
+}
+.Hero-image {
+  width: 100%;
+}
+.HeroContent .Text-Content {
+  position: absolute;
+  bottom: 30%;
+  left: 0;
+  width: 100%;
+}
+
+.Txthero1 {
+  font-family: 'Ara Jozoor';
+  color: #d50132;
+  font-size: 60px;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+.Txthero2 {
+  margin-bottom: 20px;
+  font-size: 19px;
+  font-family: 'Archer';
+}
+@media only screen and (min-width: 1025px) {
+  .Txthero2 {
+    width: 36%;
+  }
+}
+.Txthero3 a {
+  background: #f2f2f2;
+  color: #332f21;
+  padding: 10px 25px;
+  border-radius: 20px;
+  min-width: 210px;
+  display: inline-block;
+  text-align: center;
+  font-family: 'Archer';
+  box-shadow: 0 15px 25px rgb(0 0 0 / 16%);
+  border: 2px solid #fff;
+}
+.Txthero3 a.heroLink2 {
+  background-color: #d50132;
+  color: #fff;
+  margin-left: 20px;
+}
+.hover-black:hover {
+  background-color: #332f21 !important;
+  color: #fff !important;
+  transition: 0.3s;
+}
+.HeroSlider:after {
+  content: '';
+  background-image: url('afterimages/heroafter.jpg');
+  width: 100%;
+  display: block;
+  padding-bottom: 159px;
+}
+.AboutUsBox {
+  background-image: url('afterimages/aboutusbg1.png');
+  background-size: cover;
+  width: 100%;
+  display: block;
+  position: relative;
+  z-index: 99;
+  margin-top: -160px;
+  padding-top: 110px;
+  padding-bottom: 50px;
+  background-repeat: no-repeat;
+}
+.max-width-mn-1 {
+  max-width: 500px;
+}
+.abtTxt1 {
+  font-family: 'Ara Jozoor';
+  color: #fff;
+  font-size: 50px;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+.abtTxt2 {
+  color: #fff;
+  margin-bottom: 15px;
+  font-size: 19px;
+  font-family: 'Archer';
+}
+.ProductImage img {
+  width: 100%;
+}
+.abtLink1 {
+  background-color: #fff;
+  padding: 7px 30px;
+  color: #d50132;
+  font-size: 17px;
+  border-radius: 38px;
+  box-shadow: 0 15px 25px rgb(0 0 0 / 16%);
+  border: 2px solid #fff;
+  min-width: 140px;
+  text-align: center;
+  font-family: 'Archer';
+  margin-top: 10px;
+  display: inline-block;
+}
+.HeaderBoxTp1 .container {
+  max-width: 800px;
+}
+.PrTxt1 {
+  font-family: 'Ara Jozoor';
+  color: #d50132;
+  font-size: 50px;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+.PrTxt2 {
+  color: #332f21;
+  margin-bottom: 15px;
+  font-size: 19px;
+  font-family: 'Archer';
+}
+.RoundBoxTp1 .container {
+  max-width: 800px;
+}
+.PrLink1 {
+  text-align: center;
+  display: block;
+  max-width: 190px;
+}
+.PrLink1 .ImgRound {
+  background-color: #d50132;
+  padding: 10px;
+  color: #fff;
+  font-size: 17px;
+  border-radius: 50%;
+  box-shadow: 0 15px 25px rgb(0 0 0 / 16%);
+  border: 3px solid #fff;
+  width:fit-content;
+  text-align: center;
+  display: block;
+  transition: 0.3s;
+}
+.PrLink1 .ImgRound img {
+  width: 155px;
+  border-radius: 50%;
+  height: 155px;
+}
+.RoundBoxTp1 {
+  padding: 20px 0px;
+}
+.PrLink1 .PrLink1Txt {
+  font-family: 'Ara Jozoor';
+  font-size: 26px;
+  margin-top: 15px;
+  color: #d50132;
+  line-height: 1.2;
+}
+.PrLinkTp2 {
+  font-family: 'Archer';
+  background-color: #d50132;
+  padding: 7px 30px;
+  color: #fff;
+  font-size: 17px;
+  border-radius: 38px;
+  box-shadow: 0 15px 25px rgb(0 0 0 / 16%);
+  border: 2px solid #fff;
+  min-width: 140px;
+  text-align: center;
+  display: inline-block;
+  margin-top: 20px;
+}
+.HowToCookBox {
+  background-image: url('afterimages/howtocookbg.png');
+  background-size: 100% 100%;
+  width: 100%;
+  display: block;
+  position: relative;
+  z-index: 99;
+  padding-top: 150px;
+  padding-bottom: 200px;
+  background-repeat: no-repeat;
+}
+.GridItem .GridImage {
+  position: relative;
+  border: none;
+  background-color: transparent;
+  width:100%;
+}
+.GridItem .GridImage img {
+  width: 100%;
+  border-radius: 30px;
+  height: 250px;
+  border: 1px solid #d6d6d6;
+  cursor:pointer;
+}
+.GridItem .GridImage .playPrd {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70px;
+  height: 70px;
+  border: none;
+  border-radius:50%;
+}
+
+.GridItem .GridTitle {
+  font-family: 'Ara Jozoor';
+  font-size: 30px;
+  margin-top: 15px;
+  color: #d50132;
+  line-height: 1.2;
+  display: block;
+  text-align:center;
+}
+.RecipeGridHome .container {
+  padding: 60px 15px 30px 15px;
+  max-width: 1100px;
+}
+.GridItem .GridDet {
+  padding-top: 5px;
+  font-size: 18px;
+}
+.IconBc img {
+  width: 30px;
+}
+.TimeIcon {
+  margin-right: 10px;
+  display: inline-block;
+}
+.txtwithThmb {
+  font-family: 'Ara Jozoor';
+  color: #d50132;
+  font-size: 50px;
+  line-height: 1;
+  position: relative;
+  display: inline-block;
+}
+.txtwithThmb::before {
+  content: '';
+  display: inline-block;
+  background-image: url(./afterimages/feliz-path-character-contact.png);
+  width: 200px;
+  background-size: 100% 100%;
+  height: 170px;
+  position: absolute;
+  top: -59px;
+  left: -179px;
+  z-index: 99;
+}
+.ParnersSlider .container {
+  max-width: 1200px;
+}
+.ParnersSlider img {
+  max-width: 170px;
+}
+.ParnersSlider {
+  padding-top: 50px;
+}
+.instagramHdr {
+  content: '';
+  background-image: url(./afterimages/instabg.png);
+  background-color: #d50132;
+  padding: 20px 0px;
+  color: #fff;
+  font-family: 'Ara Jozoor';
+  font-size: 35px;
+  line-height: 1;
+}
+.ContactLeftCnt {
+  background-image: url(./afterimages/feliz-path-character-contact-1.jpg);
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+.OurPartners {
+  padding-bottom: 50px;
+}
+.InstaGrid img {
+  width: 100%;
+  height: 340px;
+  object-fit: cover;
+}
+.IconBox {
+  width: 30px;
+  height: 30px;
+  background-image: url(./afterimages/adicons.png);
+  display: block;
+  background-size: 100% 100%;
+}
+.IconBox.tel {
+  background-image: url(./afterimages/tel.png);
+  height: 27px;
+}
+.IconBox.mail {
+  background-image: url(./afterimages/mail.png);
+  height: 19px;
+}
+.IconBox.address {
+  background-image: url(./afterimages/address.png);
+  width: 18px;
+  height: 27px;
+}
+.ContactRow1Cnt {
+  display: flex;
+}
+.ContactRow1Cnt .ContactRow1CntLeft {
+  flex: 0 0 60px;
+}
+.ContactRow1Cnt .ContactRow1CntRight {
+  flex: 1;
+}
+.C1Txt1 {
+  font-family: 'Ara Jozoor';
+  color: #d50132;
+  font-size: 50px;
+  line-height: 1;
+  position: relative;
+  display: inline-block;
+  margin-bottom: 40px;
+}
+.ContactUsBlk {
+  padding: 50px 0px;
+}
+.ContactRow1 {
+  margin-bottom: 20px;
+}
+.AbtTxt101 {
+  font-family: 'Ara Jozoor';
+  font-size: 22px;
+  color: #332f21;
+}
+.adMb-Adg {
+  margin-bottom: 20px;
+}
+.AbtTxt102 {
+  font-size: 22px;
+}
+.ContactRight {
+  background: #f4f4f4;
+  border-radius: 30px;
+  padding: 50px 30px;
+}
+.ContactUsBlk .container {
+  max-width: 1200px;
+}
+.cntForm .form-control {
+  background: #fff;
+  padding: 15px 30px;
+  border-radius: 30px;
+  margin-bottom: 30px;
+  border: 0px solid #e4e4e4;
+  outline: none !important;
+  box-shadow: none !important;
+  border: 2px solid #fff;
+}
+.cntForm button,
+.cntForm .hover-black {
+  background-color: #d50132;
+  padding: 13px 50px;
+  color: #fff;
+  font-size: 17px;
+  border-radius: 38px;
+  box-shadow: 0 15px 25px rgb(0 0 0 / 16%);
+  border: 2px solid #fff;
+  min-width: 140px;
+  text-align: center;
+  cursor: pointer;
+}
+.cntForm textarea {
+  height: 150px;
+}
+.cntForm br {
+  display: none;
+}
+.width100 {
+  width: 100%;
+}
+.Location {
+  background: #f4f4f4;
+}
+.LctTxt1 {
+  font-family: 'Ara Jozoor';
+  color: #d50132;
+  font-size: 50px;
+  line-height: 1;
+  text-align: center;
+  padding: 30px 0px;
+}
+.PowereBy {
+  background: #af022a;
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+}
+.PowereBy a {
+  color: #fff !important;
+}
+footer {
+  background-color: #d50132;
+  color: #fff;
+}
+.FirstClmn {
+  background-color: #fff;
+  border-bottom-right-radius: 170px;
+}
+.FtrRowCnt {
+  position: relative;
+}
+.FtrRowCnt:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  position: absolute;
+  top: 0;
+  left: -100%;
+}
+.FirstClmn .img-fluid {
+  max-width: 120px;
+}
+.FtrRowCnt .col-md-3 {
+  padding: 40px 0px;
+}
+.SocilTp1 {
+  display: flex;
+  margin-top: 25px;
+}
+.SocilTp1 a {
+  margin-right: 25px;
+  display: inline-block;
+}
+.FtIcon {
+  background-image: url(./afterimages/facebook.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 28px;
+  width: 13px;
+  display: block;
+}
+.FtIcon.insta {
+  background-image: url(./afterimages/instagram.png);
+  width: 28px;
+}
+.FtIcon.youtube {
+  background-image: url(./afterimages/youtube.png);
+  width: 28px;
+}
+.FtrRowCnt .seCondColumn {
+  padding: 40px 50px;
+}
+.FtrRowCnt .seCondColumn ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.FtrRowCnt .seCondColumn ul a {
+  color: #fff;
+  font-size: 17px;
+  margin-bottom: 5px;
+  display: block;
+}
+.LastColumn {
+}
+.AdRow1 {
+  display: flex;
+  margin-bottom: 15px;
+  align-items: center;
+}
+.AdRow1 .AdIcon {
+  flex: 0 0 30px;
+}
+.AdRow1 .AdCnt {
+  flex: 1;
+}
+.AdIconSp {
+  background-image: url(./afterimages/location.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 21px;
+  width: 15px;
+  display: block;
+}
+.AdIconSp.call {
+  background-image: url(./afterimages/call.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 17px;
+  width: 17px;
+  display: block;
+}
+.AdIconSp.email {
+  background-image: url(./afterimages/email.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 10px;
+  width: 14px;
+  display: block;
+}
+.OsBox.HeroSlider:after {
+  content: none;
+}
+.OurStoryBox {
+  position: relative;
+  margin-top: -55px;
+  z-index: 2;
+}
+.OurStoryBox::before {
+  content: '';
+  background-image: url(./afterimages/ourstoryBefore.png);
+  width: 100%;
+  height: 325px;
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+@media only screen and (max-width: 600px) {
+  .OurStoryBox::before {
+    background-size: contain;
+  }
+}
+.OurStoryBox::after {
+  content: '';
+  background-image: url(./afterimages/ourstoryAfter.png);
+  width: 100%;
+  height: 548px;
+  display: block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -217px;
+}
+.OurStoryBoxMain {
+  background-color: #d50132;
+  color: #fff;
+  position: relative;
+  text-align: left;
+}
+.OuTxt1 {
+  font-size: 30px;
+  font-family: 'Ara Jozoor';
+  margin-bottom: 10px;
+}
+.OuTxt2 {
+  font-size: 50px;
+  font-family: 'Ara Jozoor';
+  line-height: 1.1;
+}
+.OuTxt3 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+.SubTxt1 {
+  font-size: 25px;
+  font-family: 'Ara Jozoor';
+  margin-bottom: 10px;
+}
+.SubTxt2 {
+  font-size: 20px;
+}
+.GrdBoxSt1 {
+  padding: 50px 0px 0px 0px;
+}
+.youtubeFrame img {
+  width: 100%;
+}
+.fancybox-bg {
+  background: #d50132;
+}
+.BgTras {
+  margin-top: -103px;
+}
+.adjustTop {
+  margin-top: -80px;
+}
+.accordionBox .answer {
+  display: none;
+}
+.accordionBox .accordion-list li .answer {
+  display: none;
+}
+.accordionBox .accordion-list li.active .answer {
+  display: block;
+}
+.accordion-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.accordion-list li {
+  padding: 20px 20px;
+  color: #332f21;
+  background: #fff;
+  border-radius: 20px;
+  margin-bottom: 15px;
+  font-family: 'Archer';
+  cursor: pointer;
+}
+.accordion-list li .answer {
+  margin-top: 20px;
+}
+.accordion-list li h3 {
+  font-size: 25px;
+  line-height: 1;
+  cursor: pointer;
+}
+.AccLeft {
+  flex: 0 0 50px;
+  max-width: 50px;
+}
+.AccMiddle {
+  flex: 1;
+}
+.AccRight {
+  flex: 0 0 25px;
+  max-width: 25px;
+}
+.AccItem {
+  display: flex;
+  align-items: center;
+}
+.AccItem img {
+  max-width: 25px;
+  margin-left: auto;
+}
+.accordion-list li h3 .minus {
+  display: none;
+}
+.accordion-list li.active h3 .minus {
+  display: block;
+}
+.accordion-list li.active h3 .plus {
+  display: none;
+}
+.MargToCont {
+  margin-top: 150px;
+}
+.OrTxt1 {
+  font-size: 30px;
+  font-family: 'Ara Jozoor';
+  margin-bottom: 10px;
+}
+.OrTxt2 {
+  font-size: 50px;
+  font-family: 'Ara Jozoor';
+  line-height: 1.1;
+  margin-bottom: 20px;
+}
+.OrTxt3 {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.HorMenu1Row {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 45px;
+}
+.HorMenu1Row a {
+  display: inline-block;
+  font-family: 'Archer';
+  color: #fff;
+  background-color: #e8718c;
+  padding: 15px 30px;
+  border-radius: 30px;
+  min-width: 150px;
+  font-size: 19px;
+  margin-right: 15px;
+}
+.HorMenu1Row a.active,
+.HorMenu1Row a:hover {
+  color: #332f21;
+  background: #fff;
+}
+.ProductItem a {
+  display: block;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.ProductItem a img {
+  border-radius: 50px;
+}
+.ProductItem a .PrdName {
+  font-size: 30px;
+  font-family: 'Ara Jozoor';
+  line-height: 1;
+  margin-top: 15px;
+  color: #fff;
+}
+.Tipt {
+  min-height: 400px;
+  width: 100%;
+  margin-bottom: -175px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.TiptItem1 {
+  font-family: 'Ara Jozoor';
+  color: #d50132;
+  font-size: 60px;
+  line-height: 1;
+  margin-bottom: 20px;
+  margin-top: 100px;
+}
+.TiptItem2 {
+  font-size: 20px;
+  font-family: 'Archer';
+}
+.TipsHero:after {
+  content: '';
+  background-image: url(./afterimages/tips.png);
+  width: 100%;
+  height: 552px;
+  display: block;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.TipBoxY {
+  color: #fff;
+  margin-top: -215px;
+  background-color: #d50132;
+  position: relative;
+}
+.TipBoxY1 {
+  font-family: 'Ara Jozoor';
+  color: #fff;
+  font-size: 50px;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+.TipBoxY2 {
+  font-size: 20px;
+}
+.TipBoxY .GridItem .GridTitle {
+  color: #fff;
+}
+.TipBoxY .gridRow > .row > .col-md-4 {
+  margin-bottom: 30px;
+}
+.OurPrtnrPage {
+  margin-top: 240px;
+}
+.HeroSection img {
+  width: 100%;
+}
+.HeroSectionTxt {
+  font-family: 'Ara Jozoor';
+  color: #d50132;
+  font-size: 50px;
+  line-height: 1;
+  position: relative;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.HeroSection {
+  position: relative;
+}
+.detTab {
+  background-image: url(afterimages/howtocookbg.png);
+  background-size: 100% 100%;
+  width: 100%;
+  display: block;
+  position: relative;
+  z-index: 99;
+  padding-top: 110px;
+  padding-bottom: 80px;
+  background-repeat: no-repeat;
+}
+.detTab .active {
+  display: block;
+}
+.detTab .hide {
+  display: none;
+}
+
+.detTab ul {
+  padding: 0px;
+  margin: 0;
+  list-style: none;
+  border-bottom: 2px solid #707070;
+}
+.detTab ul li {
+  float: left;
+}
+.detTab ul li a {
+  padding: 20px;
+  text-align: left;
+  font-family: 'Ara Jozoor';
+  display: block;
+  color: #3d392c;
+  position: relative;
+  font-size: 23px;
+}
+
+.detTab .list {
+  padding: 30px 0px;
+}
+.detTab .activelink {
+  color: #d50132;
+}
+.detTab .activelink:after {
+  content: '';
+  width: 100%;
+  height: 3px;
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  background-color: #d50132;
+  border-radius: 4px;
+}
+.RedRow {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.RedIcon {
+  flex: 0 0 50px;
+  max-width: 50px;
+}
+.RedIcon img {
+  max-width: 25px;
+}
+.RedText {
+  flex: 1;
+  font-family: 'Archer';
+  color: #3d392c;
+  font-size: 18px;
+}
+.listTxt1 {
+  font-family: 'Ara Jozoor';
+  font-size: 23px;
+  color: #d50132;
+  margin-bottom: 20px;
+}
+.listTxt2 {
+  font-family: 'Archer';
+  color: #3d392c;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.prdSuggestions:before {
+  content: '';
+  background-image: url(afterimages/heroafter.jpg);
+  width: 100%;
+  display: block;
+  padding-bottom: 159px;
+}
+.prdSuggestionsBx {
+  position: relative;
+  text-align: center;
+}
+
+.prdContent {
+  padding: 50px 0px;
+  background-color: #d50132;
+  color: #fff;
+}
+.prdContent .container {
+  max-width: 1200px;
+}
+.prdSuggestionsTx1 {
+  font-size: 50px;
+  font-family: 'Ara Jozoor';
+  line-height: 1.1;
+  margin-bottom: 20px;
+}
+.prdSuggestionsTx2 {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.SuggestionSliderOwl .owl-theme .owl-dots {
+  display: block;
+}
+.prdContent .ProductItem a {
+  display: block;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.RecipeDetailPage {
+  position: relative;
+}
+.RecipeDetailPage:after {
+  content: '';
+  background-image: url(./afterimages/recipedetail.png);
+  width: 100%;
+  display: block;
+}
+.RecipeDetailPage {
+  padding-top: 170px;
+  position: relative;
+}
+.recipeMainTxt1 {
+  font-family: 'Ara Jozoor';
+  color: #d50132;
+  font-size: 60px;
+  line-height: 1;
+  margin-bottom: 30px;
+}
+.recipeMainTxt2 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+.recipeMainTxt3 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+.RecImg img {
+  width: 100%;
+  border-radius: 40px;
+}
+.IncredientSection {
+  background-color: #d50132;
+  padding: 50px;
+  border-bottom: 1px solid #e8718c;
+}
+.DirectinSection {
+  background-color: #d50132;
+  padding: 50px;
+  color: #fff;
+}
+.icrTxt1 {
+  font-size: 30px;
+  font-family: 'Ara Jozoor';
+  color: #fff;
+}
+.align-item-center {
+  align-items: center;
+  justify-content: center;
+}
+.recipeMain {
+  padding-bottom: 50px;
+}
+.IncredientRowClm {
+  display: inline-block;
+  font-family: 'Archer';
+  color: #fff;
+  background-color: #e8718c;
+  padding: 15px 30px;
+  border-radius: 30px;
+  font-size: 19px;
+  margin-right: 10px;
+  margin-bottom: 15px;
+}
+.ImGBorder img {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.DirectionTxt1 {
+  font-size: 30px;
+  font-family: 'Ara Jozoor';
+  color: #fff;
+  margin-bottom: 20px;
+}
+.DireSt {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.DireSt .DrC1 img {
+  max-width: 25px;
+}
+.DireSt .DrC1 {
+  flex: 0 0 40px;
+  max-width: 40px;
+}
+.DireSt .DrC2 {
+  flex: 0 0 100px;
+  max-width: 100px;
+  font-size: 20px;
+  line-height: 1;
+}
+.DireSt .DrC3 {
+  flex: 1;
+  font-size: 20px;
+  line-height: 1.3;
+}
+.MrTxt1 {
+  font-size: 30px;
+  font-family: 'Ara Jozoor';
+  color: #fff;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+.IBox1 {
+  display: flex;
+  background-color: #e8718c;
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  align-items: center;
+  max-width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.IBox1 .IBox1Left {
+  flex: 0 0 60px;
+  max-width: 60px;
+}
+.IBox1 .IBox1Left img {
+  max-width: 50px;
+}
+.IBox1 .IBox1Right {
+  flex: 1;
+  font-size: 30px;
+}
+.IBox1Lnk {
+  background-color: #fff;
+  padding: 10px 45px;
+  display: inline-block;
+  color: #212529;
+  border-radius: 30px;
+  margin-top: 30px;
+}
+.MenuClick {
+  display: none;
+}
+.MenuIcon {
+  width: 35px;
+  cursor: pointer;
+  margin-left: auto;
+}
+.MenuIcon span {
+  width: 100%;
+  height: 3px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  background-color: #d50132;
+  display: block;
+}
+.CloseBtn {
+  display: none;
+  text-align: right;
+  padding-right: 25px;
+  padding-top: 15px;
+  font-size: 40px;
+  font-family: sans-serif;
+  line-height: 1;
+}
+.MobChat {
+  display: none;
+}
+.MobChat a {
+  font-family: 'Archer';
+  background-color: #d50132;
+  padding: 9px 15px;
+  color: #fff;
+  font-size: 17px;
+  border-radius: 38px;
+  box-shadow: 0 15px 25px rgb(0 0 0 / 16%);
+  border: 2px solid #fff;
+  min-width: 113px;
+  font-size: 14px;
+}
+.ParnersSlider .partPg img {
+  max-width: 500px;
+  height: 100px;
+  padding: 10px;
+  width: 100%;
+  object-fit: contain;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  color: #fff;
+  font-size: 17px;
+  border-radius: 38px;
+  box-shadow: 0 15px 25px rgb(0 0 0 / 16%);
+  border: 2px solid #d50132;
+  min-width: 20px;
+  text-align: center;
+}
+.PrdImg1 {
+  background: #f5f5f5;
+  text-align: center;
+  padding: 153px 0px 50px 0px;
+}
+.PrdImg1 img {
+  max-width: 600px;
+  border-radius: 30px;
+}
+@media only screen and (max-width: 1024px) {
+  .PrdImg1 {
+    background: #f5f5f5;
+    text-align: center;
+    padding: 0;
+  }
+  .MenuClick,
+  .CloseBtn,
+  .MobChat {
+    display: block;
+  }
+  .Fl-menu {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    background: #d50132;
+    height: 100%;
+    color: #fff;
+    width: 100%;
+    transition: 0.3s;
+    z-index: 12;
+  }
+  .MenuOpen .Fl-menu {
+    left: 0px;
+  }
+  .Header ul li a {
+    color: #fff;
+    text-align: center;
+  }
+  .Header ul {
+    padding-top: 20px;
+  }
+  .Header ul li {
+    display: block;
+  }
+  .Header ul li:last-child {
+    display: none;
+  }
+  header {
+    background: #fff;
+    box-shadow: 0 15px 25px rgb(0 0 0 / 16%);
+  }
+  .Fl-Logo img {
+    max-width: 90px;
+  }
+  main {
+    padding-top: 80px !important;
+  }
+  .HeroContent .Text-Content {
+    position: relative;
+    bottom: auto;
+    left: auto;
+    width: 100%;
+  }
+  .Txthero1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .Txthero2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Archer';
+  }
+  .Txthero3 a {
+    min-width: 104px;
+  }
+  .hero.owl-theme .owl-nav.disabled + .owl-dots {
+    margin-top: 0;
+    position: relative;
+    bottom: auto;
+    left: auto;
+    width: 100%;
+    margin-top: 15px;
+  }
+  .AboutUsBox {
+    background-size: 100% 100%;
+  }
+  .abtTxt1 {
+    font-size: 25px;
+  }
+  .abtTxt2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    line-height: 1.2;
+  }
+  .abtLink1 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .PrTxt1 {
+    font-size: 25px;
+    line-height: 1;
+    margin-bottom: 15px;
+  }
+  .PrTxt2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    line-height: 1.2;
+  }
+  .RoundBoxTp1 .row {
+    justify-content: center;
+  }
+  .RoundBoxTp1 .row .col-md-4 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .PrLink1 .PrLink1Txt {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  .PrLink1 .ImgRound {
+    padding: 5px;
+    font-size: 17px;
+    border: 2px solid #fff;
+    width:fit-content;
+    margin: 0 auto;
+  }
+  .PrLinkTp2 {
+    margin-top: 10px;
+  }
+  .HowToCookBox {
+    background-image: url(afterimages/howtocookbg.png);
+    background-size: contain;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .GridItem .GridTitle {
+    font-size: 25px;
+    text-align: center;
+  }
+  .GridItem .GridDet {
+    padding-top: 5px;
+    font-size: 18px;
+    text-align: center;
+  }
+  .TimeIcon {
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .RecipeGridHome .container {
+    padding: 12px 15px 0px 15px;
+    max-width: 1100px;
+  }
+  .RecipeGridHome .container {
+    padding: 12px 15px 0px 15px;
+  }
+  .txtwithThmb {
+    font-size: 25px;
+  }
+  .txtwithThmb::before {
+    content: '';
+    display: inline-block;
+    background-image: url(./afterimages/feliz-path-character-contact.png);
+    width: 160px;
+    background-size: 100% 100%;
+    height: 155px;
+    position: absolute;
+    top: -75px;
+    left: -142px;
+    z-index: 99;
+  }
+  .ParnersSlider .row {
+    justify-content: center;
+  }
+  .ParnersSlider .row .col-md-3 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .ParnersSlider img {
+    max-width: 500px;
+    height: 100px;
+    padding: 10px;
+    width: 100%;
+    object-fit: contain;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 17px;
+    border-radius: 38px;
+    box-shadow: 0 15px 25px rgb(0 0 0 / 16%);
+    border: 2px solid #d50132;
+    min-width: 20px;
+    text-align: center;
+  }
+  .instagramHdr {
+    padding: 15px 0px;
+    font-size: 25px;
+    line-height: 1;
+  }
+  .InstaGrid img {
+    width: 100%;
+    height: 125px;
+    object-fit: cover;
+  }
+  .InstaGrid .row .col-md-4 {
+    flex: 0 0 33.3333%;
+    max-width: 33.3333%;
+  }
+  .C1Txt1 {
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .IconBox {
+    width: 25px;
+    height: 25px;
+  }
+  .ContactLeftCnt {
+    background-image: none;
+  }
+  .AbtTxt101 {
+    font-size: 20px;
+  }
+  .ContactRow1Cnt .ContactRow1CntLeft {
+    flex: 0 0 40px;
+  }
+  .AbtTxt102 {
+    font-size: 19px;
+  }
+  .ContactRight {
+    background: #f4f4f4;
+    border-radius: 30px;
+    padding: 30px 15px 0px 15px;
+  }
+  .cntForm .form-control {
+    margin-bottom: 15px;
+  }
+  .cntForm button,
+  .cntForm .hover-black {
+    min-width: 100%;
+  }
+  .LctTxt1 {
+    font-size: 25px;
+    line-height: 1;
+    text-align: center;
+    padding: 15px 0px;
+  }
+  .Location img {
+    min-height: 200px;
+    object-fit: cover;
+  }
+  .FtrRowCnt .col-md-3 {
+    padding: 10px 0px 10px 10px;
+    text-align: center;
+  }
+  .SocilTp1 {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+  }
+  .ftrRow1 .container {
+    padding: 0px;
+  }
+  .ftrRow1 .container .row {
+    margin: 0px;
+  }
+  .FtrRowCnt .seCondColumn {
+    padding: 30px 10px 15px 10px;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .MobChat {
+    flex: 0 0 120px;
+    max-width: 120px;
+  }
+  .MenuClick {
+    flex: 0 0 120px;
+    max-width: 120px;
+  }
+  .Fl-Logo {
+    flex: 1;
+    text-align: center;
+  }
+  .Txthero3 a {
+    box-shadow: none;
+  }
+  .OurStoryBox {
+    margin-top: 0;
+  }
+  .OurStoryBox::before {
+    height: 200px;
+  }
+  .OuTxt1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .OuTxt2 {
+    font-size: 25px;
+    line-height: 1.1;
+    text-align: center;
+  }
+  .OuTxt3 {
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 1.2;
+  }
+  .accordion-list {
+    margin-top: 20px;
+  }
+  .AccItem {
+    font-size: 22px;
+  }
+  .AccRight {
+    text-align: right;
+  }
+  .GrdBoxSt1 {
+    padding: 0px 0px 0px 0px;
+  }
+  .SubTxt1 {
+    font-size: 22px;
+    font-family: 'Ara Jozoor';
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: 1.2;
+  }
+  .SubTxt2 {
+    font-size: 18px;
+    text-align: center;
+  }
+  .youtubeFrame {
+    padding-bottom: 40px;
+  }
+  .OurStoryBox::after {
+    content: none;
+  }
+  .adjustTop {
+    margin-top: 60px;
+  }
+  .OrTxt2 {
+    font-size: 25px;
+    line-height: 1.1;
+    text-align: center;
+  }
+  .OrTxt3 {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 1.2;
+  }
+  .HorMenu1Row {
+    white-space: nowrap;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+    margin-bottom: -15px;
+    padding-bottom: 15px;
+    display: block;
+  }
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .HorMenu1Row::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .HorMenu1Row {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+  .HorMenu1Row a {
+    padding: 9px 30px;
+    margin-bottom: 15px;
+  }
+  .ProductItem a .PrdName {
+    font-size: 25px;
+  }
+  .ProductItem a {
+    margin-bottom: 20px;
+  }
+  .TiptItem1 {
+    font-size: 25px;
+    margin-top: 0px;
+  }
+  .TiptItem2 {
+    font-size: 18px;
+    font-family: 'Archer';
+    line-height: 1.2;
+  }
+  .Tipt {
+    min-height: 100px;
+    margin-bottom: 0;
+    margin-top: 60px;
+  }
+  .TipsHero:after {
+    height: 313px;
+  }
+  .TipBoxY1 {
+    font-size: 25px;
+  }
+  .TipBoxY2 {
+    font-size: 18px;
+    line-height: 1.2;
+    margin-bottom: 10px;
+  }
+  .TipBoxY .gridRow > .row > .col-md-4 {
+    margin-bottom: 10px;
+  }
+  .OurPrtnrPage {
+    margin-top: 85px;
+    padding: 0px !important;
+  }
+  .MargToCont {
+    margin-top: 0;
+  }
+  .HeroSectionTxt {
+    font-size: 25px;
+    line-height: 1;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .detTab {
+    background-image: none;
+    background-size: cover;
+    width: 100%;
+    display: block;
+    position: relative;
+    z-index: 99;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-repeat: no-repeat;
+    margin-top: 0;
+    background-color: whitesmoke;
+  }
+  .detTab ul li a {
+    padding: 10px 10px;
+    text-align: left;
+    font-family: 'Ara Jozoor';
+    display: block;
+    color: #3d392c;
+    position: relative;
+    font-size: 17px;
+  }
+  .listTxt1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .listTxt2 {
+    margin-bottom: 10px;
+    line-height: 1.2;
+  }
+  .RedText {
+    line-height: 1.2;
+  }
+  .prdSuggestionsTx1 {
+    font-size: 30px;
+  }
+  .prdSuggestionsTx2 {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 1.2;
+  }
+  .prdContent {
+    padding: 20px 0px;
+  }
+  .prdContent .ProductItem a .PrdName {
+    font-size: 18px;
+  }
+  .RecipeDetailPage {
+    padding-top: 50px;
+  }
+  .recipeMainTxt1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .recipeMainTxt3 {
+    font-size: 19px;
+    margin-bottom: 10px;
+    line-height: 1.2;
+  }
+  .recipeMainTxt2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .recipeMain {
+    padding-bottom: 25px;
+  }
+  .IncredientSection {
+    padding: 15px 15px;
+  }
+  .icrTxt1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  .IncredientRowClm {
+    padding: 12px 21px;
+    font-size: 17px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  .DirectinSection {
+    padding: 15px;
+  }
+  .DirectionTxt1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  .DireSt .DrC1 {
+    display: none;
+  }
+  .DireSt {
+    margin-bottom: 15px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #e8718c;
+  }
+  .MrTxt1 {
+    font-size: 25px;
+  }
+  .IBox1 .IBox1Left {
+    flex: 0 0 50px;
+    max-width: 50px;
+  }
+  .IBox1 .IBox1Right {
+    flex: 1;
+    font-size: 25px;
+  }
+}
+.prdGridMc {
+  display: none;
+}
+.prdGridMc.active {
+  display: block;
+}
+
+/* salman */
+.preloader {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 990;
+  background-color: #d50132;
+  opacity: 1 !important;
+}
+
+.loader {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 50%;
+  top: 48%;
+  transform-origin: center;
+  transform: translateX(-50%) translateY(-48%);
+}
+.dot-container {
+  position: relative;
+  width: 100px;
+  position: absolute;
+  border: 0 solid #fff;
+  border-radius: 50px;
+  height: 100px;
+}
+
+.dot-container:nth-child(2) {
+  transform: rotate(40deg);
+}
+.dot-container:nth-child(2) .dot {
+  animation-delay: -0.5s;
+}
+
+.dot-container::nth-child(3) {
+  transform: rotate(80deg);
+}
+
+.dot-container::nth-child(3) .dot {
+  animation-delay: -1s;
+}
+
+.dot {
+  position: absolute;
+  height: 10px;
+  width: 10px;
+  background: #fff;
+  border-radius: 5px;
+  transform: translate(0, 0);
+}
+
+.dot:nth-child(1) {
+  top: 0;
+  left: calc(50% - 5px);
+  animation: ani1 2s infinite;
+}
+.dot:nth-child(2) {
+  bottom: calc(28% - 5px);
+  left: calc(11% - 5px);
+  animation: ani2 2s infinite;
+}
+.dot:nth-child(3) {
+  bottom: calc(28% - 5px);
+  right: calc(11% - 5px);
+  animation: ani3 2s infinite;
+}
+
+@keyframes ani1 {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-40px, 67px);
+  }
+}
+@keyframes ani2 {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(77px, 0);
+  }
+}
+@keyframes ani3 {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-39px, -67px);
+  }
+}
+
+.partCnt {
+  text-align: center;
+  color: #d50132;
+  margin: bottom 40px;
+}
+
+/* salman */
+
+.htmlvid {
+	margin-top:5rem;
+}
+
+.cnt-packet-prnt {
+	position:relative;
+	margin-top:450px;
+}
+.innerpage1{
+    padding-top:150px;
+}
+.innerpage1Hd{
+    background-color:#d50132;
+    padding:30px 10px;
+    color:#fff;
+    font-size:35px;
+    text-align:center;
+}
+.FaqPage{
+        background-color: #d50132;
+        padding:0px 0px 30px 0px;
+}
+@media screen and (max-width : 768px) {
+	.cnt-packet-prnt {
+    		margin-top:350px;
+    }
+    .innerpage1 {
+        padding-top: 100px;
+    }
+    .FaqPage {
+        padding: 20px 0px;
+    }
+    .ProductItem a img {
+        border-radius: 50px;
+        max-width: 100%;
+    }
+    html {
+        width: 100%;
+        height: 100%;
+        overflow-x: hidden;
+        position: relative;
+    }
+    body {
+        position: relative;
+        overflow-x: hidden!important;
+        user-select: none;
+    }
+    header.sticky .Fl-Logo img {
+      max-width: 75px;
+    }
+}
+header{
+   box-shadow:none; 
+}
+header.sticky {
+     box-shadow: 0 15px 25px rgb(0 0 0 / 16%); 
+}
+.cnt-packet {
+	width: 100%;
+    
+	position: absolute;
+    left: 0;
+    bottom: 0;
+	margin-top:20px;
+}
+
+@keyframes MoveUpDown {
+  0%, 100% {
+    bottom: 0;
+  }
+  50% {
+    bottom: 20px;
+  }
+}
