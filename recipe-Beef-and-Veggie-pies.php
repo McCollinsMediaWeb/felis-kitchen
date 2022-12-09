@@ -7,7 +7,7 @@
                          <a href="https://api.whatsapp.com/send?phone=971506446826&text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="hover-black">Let's Chat</a>
                     </div>
                     <div class="Fl-Logo">
-                        <a href="/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-feliz.svg" alt=""></a>
+                        <a href="/"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/logo-feliz.svg" alt=""></a>
                     </div>
                     <div class="MenuClick">
                         <div class="MenuIcon">
@@ -58,15 +58,15 @@
                                     <div class="row align-items-center">
                                         <div class="col-md-8 wow slideInUp">December , 2021</div>
                                         <div class="col-md-4 wow slideInUp IconBc">
-                                            <a href="https://api.whatsapp.com/send?phone=971506446826&amp;text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="TimeIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 122.png" alt=""></a>
-                                            <a href="https://api.whatsapp.com/send?phone=971506446826&amp;text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="ShareIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 123.png" alt=""></a>
+                                            <a href="https://api.whatsapp.com/send?phone=971506446826&amp;text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="TimeIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 122.png" alt=""></a>
+                                            <a href="https://api.whatsapp.com/send?phone=971506446826&amp;text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="ShareIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 123.png" alt=""></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-8">
                                 <div class="RecImg wow slideInUp">
-                                    <img src="/wp-content/themes/feliskitchen/recipeimages/fullwidth/Beef-and-Veggie-pies.jpg" alt="">
+                                    <img src="https://mccollinsmediaweb.github.io/felis-kitchen/recipeimages/fullwidth/Beef-and-Veggie-pies.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -104,7 +104,7 @@
                                 <div>
                                     <div class="DireSt wow slideInUp">
                                         <div class="DrC1">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 104.png" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 104.png" alt="">
                                         </div>
                                         <div class="DrC2">Step 1</div>
                                         <div class="DrC3">Preheat oven to 180°C/160°C fan-forced. Grease a 12-hole muffin pan.</div>
@@ -113,7 +113,7 @@
                                 <div>
                                     <div class="DireSt wow slideInUp">
                                         <div class="DrC1">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 104.png" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 104.png" alt="">
                                         </div>
                                         <div class="DrC2">Step 2</div>
                                         <div class="DrC3">Heat oil in a frying pan over mediumhigh heat. Add onion and garlic. Cook, stirring for 3 minutes or until softened. Add mince. Cook, breaking up mince with a wooden spoon, for 8 minutes or until browned and cooked through. Add vegetables, barbecue sauce and tomato paste. Cook, stirring, for 5 minutes or until vegetables are just tender. Remove from heat. Set aside for 10 minutes.</div>
@@ -122,7 +122,7 @@
                                 <div>
                                     <div class="DireSt wow slideInUp">
                                         <div class="DrC1">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 104.png" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 104.png" alt="">
                                         </div>
                                         <div class="DrC2">Step 3</div>
                                         <div class="DrC3">Place 1 sheet filo on a flat surface. Spray with oil. Top with 1 sheet filo. Repeat layering with 3 sheets filo. Cut filo stack in half lengthways. Cut each piece into thirds. Press each piece into 6 holes of prepared pan, allowing overhang. Repeat with remaining filo.</div>
@@ -131,7 +131,7 @@
                                 <div>
                                     <div class="DireSt wow slideInUp">
                                         <div class="DrC1">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 104.png" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 104.png" alt="">
                                         </div>
                                         <div class="DrC2">Step 4</div>
                                         <div class="DrC3">Divide mince mixture between pastry cases. Fold edges over filling to enclose. Spray with oil. Bake for 20 minutes or until golden and heated through. Stand for 2 minutes. Serve and enjoy!</div>
@@ -140,7 +140,7 @@
                                 <div>
                                     <div class="DireSt wow slideInUp">
                                         <div class="DrC1">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 104.png" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 104.png" alt="">
                                         </div>
                                         <div class="DrC2">Note</div>
                                         <div class="DrC3">We used a carrot, pea, capsicum, onion and corn frozen vegetable mix.</div>
@@ -149,7 +149,7 @@
                                 <div>
                                     <div class="DireSt wow slideInUp">
                                         <div class="DrC1">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 104.png" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 104.png" alt="">
                                         </div>
                                         <div class="DrC2">Tip</div>
                                         <div class="DrC3">Filo pastry dries out quickly on contact with air. Cover with a damp tea towel to prevent it drying and cracking.</div>
@@ -162,7 +162,7 @@
                                     <div>
                                         <div class="IBox1 wow slideInUp">
                                             <div class="IBox1Left">
-                                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 124.png" alt="">
+                                                <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 124.png" alt="">
                                             </div>
                                             <div class="IBox1Right">25 mins</div>
                                         </div>
@@ -171,7 +171,7 @@
                                     <div>
                                         <div class="IBox1 wow slideInUp">
                                             <div class="IBox1Left">
-                                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 140.png" alt="">
+                                                <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 140.png" alt="">
                                             </div>
                                             <div class="IBox1Right">1 Hour</div>
                                         </div>
@@ -260,7 +260,7 @@
             <div class="Location">
                 <div class="LctTxt1  wow slideInUp">Where You Can Find Us</div>
                 <a href="#">
-                    <img class="width100  wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/css/afterimages/Map11-01.jpg" alt="">
+                    <img class="width100  wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/css/afterimages/Map11-01.jpg" alt="">
                 </a>
             </div>
         </main>

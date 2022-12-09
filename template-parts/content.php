@@ -36,7 +36,7 @@
                          <a href="https://api.whatsapp.com/send?phone=971506446826&text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="hover-black">Let's Chat</a>
                     </div>
                     <div class="Fl-Logo">
-                        <a href="/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-feliz.svg" alt=""></a>
+                        <a href="/"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/logo-feliz.svg" alt=""></a>
                     </div>
                     <div class="MenuClick">
                         <div class="MenuIcon">

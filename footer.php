@@ -5,7 +5,7 @@
                     <div class="FtrRowCnt">
                         <div class="row">
                             <div class="col-md-3 FirstClmn">
-                                <a href="/"><img class="img-fluid  wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-feliz.svg" alt=""></a>
+                                <a href="/"><img class="img-fluid  wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/logo-feliz.svg" alt=""></a>
                                 <div>
                                     <div class="SocilTp1">
                                         <a href="https://www.facebook.com/feliskitchen" target="_blank">
@@ -103,8 +103,8 @@ feli@feliskitchen.com
             © Copyrights 2022. Feli’s Kitchen. All rights reserved. Powered by <a target="_blank" href="https://mccollinsmedia.com/">McCollins Media</a>
         </div>
     </div>
-    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/js/fl-plugins.js"></script>
-    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/js/fl-main.js"></script>
+    <script type="text/javascript" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/js/fl-plugins.js"></script>
+    <script type="text/javascript" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/js/fl-main.js"></script>
     <script>
     document.addEventListener( 'wpcf7mailsent', function( event ) {
         location = '/thank-you/';
@@ -127,7 +127,7 @@ feli@feliskitchen.com
         });
         });
 	</script> -->
-    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/js/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
 </body>
 </html>

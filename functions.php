@@ -207,7 +207,7 @@ function my_custom_fonts() {
 function my_login_logo() { ?>
     <style type="text/css">
         #login h1 a, .login h1 a {
-           background-image: url('/wp-content/themes/feliskitchen/assets/images/logo-feliz.svg');
+           background-image: url('https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/logo-feliz.svg');
             width: 220px;
             background-size: 100% 100%;
             background-repeat: no-repeat;

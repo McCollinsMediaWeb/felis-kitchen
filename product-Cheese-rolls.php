@@ -8,7 +8,7 @@
                          <a href="https://api.whatsapp.com/send?phone=971506446826&text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="hover-black">Let's Chat</a>
                     </div>
                     <div class="Fl-Logo">
-                        <a href="/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-feliz.svg" alt=""></a>
+                        <a href="/"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/logo-feliz.svg" alt=""></a>
                     </div>
                     <div class="MenuClick">
                         <div class="MenuIcon">
@@ -49,7 +49,7 @@
         <main>
             <div class="ProductDetailPage">
                 <div class="HeroSection">
-                    <div class="PrdImg1"><img class="wow slideInUp" src="/wp-content/themes/feliskitchen/productimages/Thumb/11-crunchya-apple-rolls-thumb.jpg" alt=""></div>
+                    <div class="PrdImg1"><img class="wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/11-crunchya-apple-rolls-thumb.jpg" alt=""></div>
                     <div class="container">
                          <div class="HeroSectionTxt wow slideInUp">Cheese rolls</div>
                     </div>
@@ -68,27 +68,27 @@
                                  <div class="listTxt2 wow slideInUp">Sometimes it’s better to keep flavours simple. That’s what Feli did with our classic cheese rolls. The combination of good quality cheese and delicious pastry speaks for itself with every mouthful.</div>
                                  <!-- <div class="listTxt3">
                                      <div class="RedRow  wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</div>
                                      </div>
                                      <div class="RedRow  wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</div>
                                      </div>
                                      <div class="RedRow  wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</div>
                                      </div>
                                      <div class="RedRow  wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</div>
                                      </div>
                                      <div class="RedRow  wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</div>
                                      </div>
                                      <div class="RedRow  wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</div>
                                      </div>
                                  </div> -->
@@ -97,27 +97,27 @@
                                  <div class="listTxt1">Coming Soon</div>
                                  <!-- <div class="listTxt3 wow slideInUp">
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</div>
                                      </div>
                                  </div> -->
@@ -144,7 +144,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                             <a href="/product-details-cheese-bites/">
-                                                    <img src="/wp-content/themes/feliskitchen/productimages/Thumb/01-Cheese-bites-thumb-1.jpg"/>
+                                                    <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/01-Cheese-bites-thumb-1.jpg"/>
                                                     <div class="PrdName">Cheese Bites</div>
                                             </a>
                                          </div>
@@ -152,7 +152,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-cheese-rolls/">
-                                             <img src="/wp-content/themes/feliskitchen/productimages/Thumb/11-crunchya-apple-rolls-thumb.jpg"/>
+                                             <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/11-crunchya-apple-rolls-thumb.jpg"/>
                                              <div class="PrdName">Cheese rolls</div>
                                         </a>
                                          </div>
@@ -160,7 +160,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-puffy-bites-with-white-cheese/">
-                                             <img src="/wp-content/themes/feliskitchen/productimages/Thumb/missing.jpg"/>
+                                             <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/missing.jpg"/>
                                              <div class="PrdName">Puffy bites with white cheese</div>
                                         </a>
                                          </div>
@@ -168,7 +168,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-puffy-bites-with-yellow-cheese/">
-                                                <img src="/wp-content/themes/feliskitchen/productimages/Thumb/04-puffy-bites-with-yellow-cheese-thumb.jpg"/>
+                                                <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/04-puffy-bites-with-yellow-cheese-thumb.jpg"/>
                                                 <div class="PrdName">Puffy bites with yellow cheese</div>
                                            </a>
                                          </div>
@@ -176,7 +176,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-spinach-cheese-bites/">
-                                             <img src="/wp-content/themes/feliskitchen/productimages/Thumb/05-spinach-bites-with-cheese-thumb.jpg"/>
+                                             <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/05-spinach-bites-with-cheese-thumb.jpg"/>
                                              <div class="PrdName">Spinach & cheese bites</div>
                                         </a>
                                          </div>
@@ -184,7 +184,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-cheese-spinach-pie/">
-                                             <img src="/wp-content/themes/feliskitchen/productimages/Thumb/06-spinach-pie-thumb.jpg"/>
+                                             <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/06-spinach-pie-thumb.jpg"/>
                                              <div class="PrdName">Cheese & spinach pie</div>
                                         </a>
                                          </div>
@@ -192,7 +192,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-spinach-cheese-rolls/">
-                                                <img src="/wp-content/themes/feliskitchen/productimages/Thumb/07-spinach-rolls-thumb.jpg"/>
+                                                <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/07-spinach-rolls-thumb.jpg"/>
                                                 <div class="PrdName">Spinach & cheese rolls</div>
                                            </a>
                                          </div>
@@ -245,7 +245,7 @@
                                      </div>
                                  </div>
                                  <div class="ContactRow1 wow slideInUp cnt-packet-prnt">
-                                    <img src="/wp-content/themes/feliskitchen/assets/images/felis-packets-min.png" class="cnt-packet" alt="packets">
+                                    <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/felis-packets-min.png" class="cnt-packet" alt="packets">
                                     <!-- <div class="ContactRow1Cnt">
                                         <div class="ContactRow1CntLeft">
                                             <span class="IconBox address">&nbsp;</span>
@@ -280,7 +280,7 @@
              <div class="Location">
                  <div class="LctTxt1  wow slideInUp">Where You Can Find Us</div>
                  <a href="#">
-                     <img class="width100  wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/css/afterimages/Map11-01.jpg" alt="">
+                     <img class="width100  wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/css/afterimages/Map11-01.jpg" alt="">
                  </a>
              </div>
          </main>

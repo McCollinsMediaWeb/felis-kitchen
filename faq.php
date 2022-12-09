@@ -27,7 +27,7 @@
                          <a href="https://api.whatsapp.com/send?phone=971506446826&text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20Felis%20Kitchen" class="hover-black">Let's Chat</a>
                     </div>
                     <div class="Fl-Logo">
-                        <a href="/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-feliz.svg" alt=""></a>
+                        <a href="/"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/logo-feliz.svg" alt=""></a>
                     </div>
                     <div class="MenuClick">
                         <div class="MenuIcon">
@@ -75,12 +75,12 @@
                                               <h3>
                                                   <div class="AccItem">
                                                       <div class="AccLeft">
-                                                          <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt="">
+                                                          <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt="">
                                                       </div>
                                                       <div class="AccMiddle">Is your food Halal-certified?</div>
                                                       <div class="AccRight">
-                                                          <img class="plus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 100.png" alt="">
-                                                          <img class="minus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 102.png" alt="">
+                                                          <img class="plus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 100.png" alt="">
+                                                          <img class="minus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 102.png" alt="">
                                                       </div>
                                                   </div>
                                               </h3>
@@ -92,12 +92,12 @@
                                                 <h3>
                                                     <div class="AccItem">
                                                         <div class="AccLeft">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt="">
+                                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt="">
                                                         </div>
                                                         <div class="AccMiddle">Where can I order Feli's Kitchen products in UAE?</div>
                                                         <div class="AccRight">
-                                                            <img class="plus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 100.png" alt="">
-                                                            <img class="minus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 102.png" alt="">
+                                                            <img class="plus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 100.png" alt="">
+                                                            <img class="minus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 102.png" alt="">
                                                         </div>
                                                     </div>
                                                 </h3>
@@ -109,12 +109,12 @@
                                                 <h3>
                                                     <div class="AccItem">
                                                         <div class="AccLeft">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt="">
+                                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt="">
                                                         </div>
                                                         <div class="AccMiddle">Are there any arabic range products?</div>
                                                         <div class="AccRight">
-                                                            <img class="plus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 100.png" alt="">
-                                                            <img class="minus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 102.png" alt="">
+                                                            <img class="plus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 100.png" alt="">
+                                                            <img class="minus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 102.png" alt="">
                                                         </div>
                                                     </div>
                                                 </h3>
@@ -126,12 +126,12 @@
                                                 <h3>
                                                     <div class="AccItem">
                                                         <div class="AccLeft">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt="">
+                                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt="">
                                                         </div>
                                                         <div class="AccMiddle">How to get in touch with Feli's Kitchen?</div>
                                                         <div class="AccRight">
-                                                            <img class="plus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 100.png" alt="">
-                                                            <img class="minus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 102.png" alt="">
+                                                            <img class="plus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 100.png" alt="">
+                                                            <img class="minus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 102.png" alt="">
                                                         </div>
                                                     </div>
                                                 </h3>

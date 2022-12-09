@@ -8,7 +8,7 @@
                          <a href="https://api.whatsapp.com/send?phone=971506446826&text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="hover-black">Let's Chat</a>
                     </div>
                     <div class="Fl-Logo">
-                        <a href="/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-feliz.svg" alt=""></a>
+                        <a href="/"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/logo-feliz.svg" alt=""></a>
                     </div>
                     <div class="MenuClick">
                         <div class="MenuIcon">
@@ -59,15 +59,15 @@
                                     <div class="row align-items-center">
                                         <div class="col-md-8 wow slideInUp">December , 2021</div>
                                         <div class="col-md-4 wow slideInUp IconBc">
-                                            <a href="https://api.whatsapp.com/send?phone=971506446826&amp;text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="TimeIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 122.png" alt=""></a>
-                                            <a href="https://api.whatsapp.com/send?phone=971506446826&amp;text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="ShareIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 123.png" alt=""></a>
+                                            <a href="https://api.whatsapp.com/send?phone=971506446826&amp;text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="TimeIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 122.png" alt=""></a>
+                                            <a href="https://api.whatsapp.com/send?phone=971506446826&amp;text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="ShareIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 123.png" alt=""></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-8">
                                 <div class="RecImg wow slideInUp">
-                                    <img src="/wp-content/themes/feliskitchen/recipeimages/fullwidth/Chicken-filo-pie.jpg" alt="">
+                                    <img src="https://mccollinsmediaweb.github.io/felis-kitchen/recipeimages/fullwidth/Chicken-filo-pie.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -105,7 +105,7 @@
                                 <div>
                                     <div class="DireSt wow slideInUp">
                                         <div class="DrC1">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 104.png" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 104.png" alt="">
                                         </div>
                                         <div class="DrC2">Step 1</div>
                                         <div class="DrC3"> Heat the olive oil in a sturdy frying pan and cook the chicken until tender for about 5-10 minutes until cooked, stirring often. Remove from the pan and leave on one side. Omit this stage if you are using cooked chicken.</div>
@@ -114,7 +114,7 @@
                                 <div>
                                     <div class="DireSt wow slideInUp">
                                         <div class="DrC1">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 104.png" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 104.png" alt="">
                                         </div>
                                         <div class="DrC2">Step 2</div>
                                         <div class="DrC3"> Add 1 teaspoon of butter to the same pan and soften the leeks, without colouring, for 5 minutes. Sprinkle over the flour and cook, stirring all the time, for a further 2 minutes.</div>
@@ -123,7 +123,7 @@
                                 <div>
                                     <div class="DireSt wow slideInUp">
                                         <div class="DrC1">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 104.png" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 104.png" alt="">
                                         </div>
                                         <div class="DrC2">Step 3</div>
                                         <div class="DrC3">Stir in the chicken stock and bring to a simmer cook for about 5 minutes until lightly thickened.</div>
@@ -132,7 +132,7 @@
                                 <div>
                                     <div class="DireSt wow slideInUp">
                                         <div class="DrC1">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 104.png" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 104.png" alt="">
                                         </div>
                                         <div class="DrC2">Step 4</div>
                                         <div class="DrC3"> Add the Philadelphia and stir until it has melted into the sauce. Add a dash of water if it looks a tad too thick.</div>
@@ -141,7 +141,7 @@
                                 <div>
                                     <div class="DireSt wow slideInUp">
                                         <div class="DrC1">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 104.png" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 104.png" alt="">
                                         </div>
                                         <div class="DrC2">Step 5</div>
                                         <div class="DrC3">Return the chicken to the pan and add the parsley. Then spoon the mixture into a shallow, 1 litre ovenproof pie dish and leave to cool.</div>
@@ -150,7 +150,7 @@
                                 <div>
                                     <div class="DireSt wow slideInUp">
                                         <div class="DrC1">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 104.png" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 104.png" alt="">
                                         </div>
                                         <div class="DrC2">Step 6</div>
                                         <div class="DrC3">Brush the edge of the pie dish with olive oil. Unroll the filo pastry and lay a sheet of pastry over the pie dish. Brush with olive oil then repeat with the other sheet.  Scrunch up the overhanging pastry, fold onto the pies surface, and brush with olive oil.</div>
@@ -159,7 +159,7 @@
                                 <div>
                                     <div class="DireSt wow slideInUp">
                                         <div class="DrC1">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 104.png" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 104.png" alt="">
                                         </div>
                                         <div class="DrC2">Step 7</div>
                                         <div class="DrC3">Bake in a pre heated over at 190c/ gas 5 for about 30-35 minutes, until golden and serve straight from the dish.</div>
@@ -172,7 +172,7 @@
                                     <div>
                                         <div class="IBox1 wow slideInUp">
                                             <div class="IBox1Left">
-                                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 124.png" alt="">
+                                                <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 124.png" alt="">
                                             </div>
                                             <div class="IBox1Right">30 minutes</div>
                                         </div>
@@ -181,7 +181,7 @@
                                     <div>
                                         <div class="IBox1 wow slideInUp">
                                             <div class="IBox1Left">
-                                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 140.png" alt="">
+                                                <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 140.png" alt="">
                                             </div>
                                             <div class="IBox1Right">50 minutes</div>
                                         </div>
@@ -270,7 +270,7 @@
             <div class="Location">
                 <div class="LctTxt1  wow slideInUp">Where You Can Find Us</div>
                 <a href="#">
-                    <img class="width100  wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/css/afterimages/Map11-01.jpg" alt="">
+                    <img class="width100  wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/css/afterimages/Map11-01.jpg" alt="">
                 </a>
             </div>
         </main>

@@ -9,7 +9,7 @@
                          <a href="https://api.whatsapp.com/send?phone=971506446826&text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="hover-black">Let's Chat</a>
                     </div>
                     <div class="Fl-Logo">
-                        <a href="/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-feliz.svg" alt=""></a>
+                        <a href="/"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/logo-feliz.svg" alt=""></a>
                     </div>
                     <div class="MenuClick">
                         <div class="MenuIcon">
@@ -50,7 +50,7 @@
         <main>
             <div class="ProductDetailPage">
                 <div class="HeroSection">
-                    <div class="PrdImg1"><img class="wow slideInUp" src="/wp-content/themes/feliskitchen/productimages/Thumb/08-cheese-olive-bites-thumb.jpg" alt=""/></div>
+                    <div class="PrdImg1"><img class="wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/08-cheese-olive-bites-thumb.jpg" alt=""/></div>
                     <div class="container">
                          <div class="HeroSectionTxt wow slideInUp">White cheese & olive bites</div>
                     </div>
@@ -69,31 +69,31 @@
                                  <div class="listTxt1">White Cheese & Olive Bites Baking Instruction</div>
                                  <div class="listTxt3 wow slideInUp">
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Preheat your oven at 180°C -190°C.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Remove the frozen mini bites from the pack and place them into a pan.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">You can brush the pan with a little oil or margarine.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">If you wish, you can baste the mini bites with beaten egg or milk.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Bake the mini bites on the middle shelf of the preheated oven at 180°C.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">For approx. 30-35 minutes.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Adjust the baking time and temperature depending on your oven.</div>
                                      </div>
                                  </div> 
@@ -106,7 +106,7 @@
                                  <div class="listTxt1">Ingredients</div>
                                  <div class="listTxt3">
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Dough: wheat flour, water, refined oils (palm oil, rapeseed oil, cottonseed oil and sunflower oil) in varying proportions; cornstarch, salt, olive oil (1.3%), sugar, flour treatment agent: 
 L-cysteine, ascorbic acid; enzymes; coloring agent: carotenes flavors; butter flavoring.
 Filling: cheese curd (36%) [pasteurized whey]; water, cow's milk white brined cheese (15%) 
@@ -114,11 +114,11 @@ Filling: cheese curd (36%) [pasteurized whey]; water, cow's milk white brined ch
 rennet], feta cheese (10%) [pasteurized sheep's milk, pasteurized goats milk, salt, lactic culture, microbial rennet], wheat semolina. emulsifiers: cellulose, sodium carboxymethylcellulose; milk protein, margarine [refined sunflower oil, re-esterified palm oil, water, refined palm oil, salt, emulsifiers: mono- and diglycerides of fatty acids, soy lecithin; preservative: potassium sorbate; acidity regulator. citric acid; butter flavoring, coloring agent: carotenes antioxidant: alpha-tocopherol], salt.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Olive paste: olive paste, refined sunflower oil.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Contains soy, wheat and dairy products (including lactose).</div>
                                      </div>
                                  </div> 
@@ -142,7 +142,7 @@ rennet], feta cheese (10%) [pasteurized sheep's milk, pasteurized goats milk, sa
                                  <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                             <a href="/product-details-cheese-bites/">
-                                                    <img src="/wp-content/themes/feliskitchen/productimages/Thumb/01-Cheese-bites-thumb-1.jpg"/>
+                                                    <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/01-Cheese-bites-thumb-1.jpg"/>
                                                     <div class="PrdName">Cheese Bites</div>
                                             </a>
                                          </div>
@@ -150,7 +150,7 @@ rennet], feta cheese (10%) [pasteurized sheep's milk, pasteurized goats milk, sa
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-cheese-rolls/">
-                                             <img src="/wp-content/themes/feliskitchen/productimages/Thumb/11-crunchya-apple-rolls-thumb.jpg"/>
+                                             <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/11-crunchya-apple-rolls-thumb.jpg"/>
                                              <div class="PrdName">Cheese rolls</div>
                                         </a>
                                          </div>
@@ -158,7 +158,7 @@ rennet], feta cheese (10%) [pasteurized sheep's milk, pasteurized goats milk, sa
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-white-cheese-olive-bites/">
-                                             <img src="/wp-content/themes/feliskitchen/productimages/Thumb/08-cheese-olive-bites-thumb.jpg"/>
+                                             <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/08-cheese-olive-bites-thumb.jpg"/>
                                              <div class="PrdName">White cheese & olive bites</div>
                                         </a>
                                          </div>
@@ -166,7 +166,7 @@ rennet], feta cheese (10%) [pasteurized sheep's milk, pasteurized goats milk, sa
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-puffy-bites-with-chocolate/">
-                                                <img src="/wp-content/themes/feliskitchen/productimages/Thumb/09-choclate-bites-thumb.jpg"/>
+                                                <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/09-choclate-bites-thumb.jpg"/>
                                                 <div class="PrdName">Puffy bites with chocolate</div>
                                            </a>
                                          </div>
@@ -174,7 +174,7 @@ rennet], feta cheese (10%) [pasteurized sheep's milk, pasteurized goats milk, sa
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-spinach-cheese-bites/">
-                                             <img src="/wp-content/themes/feliskitchen/productimages/Thumb/05-spinach-bites-with-cheese-thumb.jpg"/>
+                                             <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/05-spinach-bites-with-cheese-thumb.jpg"/>
                                              <div class="PrdName">Spinach & cheese bites</div>
                                         </a>
                                          </div>
@@ -182,7 +182,7 @@ rennet], feta cheese (10%) [pasteurized sheep's milk, pasteurized goats milk, sa
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-cheese-spinach-pie/">
-                                             <img src="/wp-content/themes/feliskitchen/productimages/Thumb/06-spinach-pie-thumb.jpg"/>
+                                             <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/06-spinach-pie-thumb.jpg"/>
                                              <div class="PrdName">Cheese & spinach pie</div>
                                         </a>
                                          </div>
@@ -190,7 +190,7 @@ rennet], feta cheese (10%) [pasteurized sheep's milk, pasteurized goats milk, sa
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-spinach-cheese-rolls/">
-                                                <img src="/wp-content/themes/feliskitchen/productimages/Thumb/07-spinach-rolls-thumb.jpg"/>
+                                                <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/07-spinach-rolls-thumb.jpg"/>
                                                 <div class="PrdName">Spinach & cheese rolls</div>
                                            </a>
                                          </div>
@@ -243,7 +243,7 @@ rennet], feta cheese (10%) [pasteurized sheep's milk, pasteurized goats milk, sa
                                      </div>
                                  </div>
                                  <div class="ContactRow1 wow slideInUp cnt-packet-prnt">
-                                    <img src="/wp-content/themes/feliskitchen/assets/images/felis-packets-min.png" class="cnt-packet" alt="packets">
+                                    <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/felis-packets-min.png" class="cnt-packet" alt="packets">
                                     <!-- <div class="ContactRow1Cnt">
                                         <div class="ContactRow1CntLeft">
                                             <span class="IconBox address">&nbsp;</span>
@@ -278,7 +278,7 @@ rennet], feta cheese (10%) [pasteurized sheep's milk, pasteurized goats milk, sa
              <div class="Location">
                  <div class="LctTxt1  wow slideInUp">Where You Can Find Us</div>
                  <a href="#">
-                     <img class="width100  wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/css/afterimages/Map11-01.jpg" alt="">
+                     <img class="width100  wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/css/afterimages/Map11-01.jpg" alt="">
                  </a>
              </div>
          </main>

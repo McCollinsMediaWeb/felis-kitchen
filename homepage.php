@@ -27,7 +27,7 @@
                          <a href="https://api.whatsapp.com/send?phone=971506446826&text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20Felis%20Kitchen" class="hover-black">Let's Chat</a>
                     </div>
                     <div class="Fl-Logo">
-                        <a href="/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-feliz.svg" alt=""></a>
+                        <a href="/"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/logo-feliz.svg" alt=""></a>
                     </div>
                     <div class="MenuClick">
                         <div class="MenuIcon">
@@ -70,7 +70,7 @@
                 <div class="owl-carousel owl-theme hero">
                     <div class="item">
                         <div class="HeroContent">
-                            <img class="Hero-image" src="<?php echo get_template_directory_uri(); ?>/assets/images/FK_ZaatarRolls_300g_OL_ART_2048x.jpg"/>
+                            <img class="Hero-image" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/FK_ZaatarRolls_300g_OL_ART_2048x.jpg"/>
                             <div class="Text-Content">
                                 <div class="container">
                                     <div class="Txthero1">Celebrating &<br/>
@@ -103,7 +103,7 @@
                 </div>
                 <div class="ProductImage">
                     <div class="container wow slideInUp">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/product-min.png" alt="">
+                        <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/product-min.png" alt="">
                     </div>
                 </div>
             </div>
@@ -122,7 +122,7 @@
                             <div class="col-md-4">
                                 <a href="/product-detail-belgian-waffles/" class="PrLink1">
                                     <span class="ImgRound hover-black wow slideInUp">
-                                        <img src="/wp-content/themes/feliskitchen/productimages/Thumb/Belgian Waffles.jpg" alt="">
+                                        <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/Belgian Waffles.jpg" alt="">
                                     </span>
                                     <div class="PrLink1Txt wow slideInUp">Belgian Waffles</div>
                                 </a>
@@ -130,7 +130,7 @@
                             <div class="col-md-4">
                                 <a href="/product-detail-spinach-cheese-bites/" class="PrLink1">
                                     <span class="ImgRound hover-black wow slideInUp">
-                                        <img src="/wp-content/themes/feliskitchen/productimages/Thumb/05-spinach-bites-with-cheese-thumb.jpg" alt="">
+                                        <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/05-spinach-bites-with-cheese-thumb.jpg" alt="">
                                     </span>
                                     <div class="PrLink1Txt wow slideInUp">Spinach & cheese bites</div>
                                 </a>
@@ -138,7 +138,7 @@
                             <div class="col-md-4">
                                 <a href="/product-detail-kibbeh/" class="PrLink1">
                                     <span class="ImgRound hover-black wow slideInUp">
-                                        <img src="/wp-content/themes/feliskitchen/productimages/Thumb/Kibbeh.jpg" alt="">
+                                        <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/Kibbeh.jpg" alt="">
                                     </span>
                                     <div class="PrLink1Txt wow slideInUp">Kibbeh</div>
                                 </a>
@@ -169,8 +169,8 @@
                                 <div class="col-md-4 mb-4">
                                     <div class="GridItem wow slideInUp">
                                         <a  href="https://youtu.be/RJ68O2spc5A"  data-fancybox="gallery1" class="GridImage wow slideInUp" >
-                                            <img src="/wp-content/themes/feliskitchen/productimages/Thumb/American-Pancake.jpg" alt="">
-                                            <img src="/wp-content/themes/feliskitchen/assets/images/icons8-play-button-circled.gif" class="playPrd" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/American-Pancake.jpg" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/icons8-play-button-circled.gif" class="playPrd" alt="">
                                         </a>
                                         <div class="GridTitle wow slideInUp">American Pancake</div>
                                         <div class="GridDet">
@@ -180,8 +180,8 @@
                                 <div class="col-md-4 wow slideInUp  mb-4">
                                     <div class="GridItem wow slideInUp">
                                     <a  href="https://youtu.be/6p8vo1bkY7E"  data-fancybox="gallery1" class="GridImage wow slideInUp" >
-                                        <img src="/wp-content/themes/feliskitchen/productimages/Thumb/Belgian Waffles.jpg" alt="">
-                                            <img src="/wp-content/themes/feliskitchen/assets/images/icons8-play-button-circled.gif" class="playPrd" alt="">
+                                        <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/Belgian Waffles.jpg" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/icons8-play-button-circled.gif" class="playPrd" alt="">
 </a>
                                         <div class="GridTitle wow slideInUp">Belgian Waffles</div>
                                         <div class="GridDet">
@@ -191,8 +191,8 @@
                                 <div class="col-md-4 wow slideInUp  mb-4">
                                     <div class="GridItem wow slideInUp">
                                    <a  href="https://youtu.be/6w5d1hloEvI"  data-fancybox="gallery1" class="GridImage wow slideInUp" >                                           
-                                            <img src="/wp-content/themes/feliskitchen/productimages/Thumb/Sugar Crepe.jpg" alt="">
-                                            <img src="/wp-content/themes/feliskitchen/assets/images/icons8-play-button-circled.gif" class="playPrd" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/Sugar Crepe.jpg" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/icons8-play-button-circled.gif" class="playPrd" alt="">
 </a>
                                     <div class="GridTitle wow slideInUp">Sugar Crepe</div>
                                         <div class="GridDet">
@@ -202,8 +202,8 @@
                                 <div class="col-md-4 wow slideInUp  mb-4">
                                     <div class="GridItem wow slideInUp">
                                     <a  href="https://youtu.be/voAtk7uqf0I"  data-fancybox="gallery1" class="GridImage wow slideInUp" >                                            
-                                    <img src="/wp-content/themes/feliskitchen/productimages/Thumb/Mini Crepes.jpg" alt="">
-                                            <img src="/wp-content/themes/feliskitchen/assets/images/icons8-play-button-circled.gif" class="playPrd" alt="">
+                                    <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/Mini Crepes.jpg" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/icons8-play-button-circled.gif" class="playPrd" alt="">
 </a>
                                     <div class="GridTitle wow slideInUp">Mini Crepes</div>
                                         <div class="GridDet">
@@ -212,8 +212,8 @@
                                 </div>
                                 <div class="col-md-4 wow slideInUp  mb-4">
                                     <div class="GridItem wow slideInUp">
-                                    <a  href="https://youtu.be/Fpw07iJ2Yvs"  data-fancybox="gallery1" class="GridImage wow slideInUp" >                                           <img src="/wp-content/themes/feliskitchen/productimages/Thumb/samosa.jpg" alt="">
-                                            <img src="/wp-content/themes/feliskitchen/assets/images/icons8-play-button-circled.gif" class="playPrd" alt="">
+                                    <a  href="https://youtu.be/Fpw07iJ2Yvs"  data-fancybox="gallery1" class="GridImage wow slideInUp" >                                           <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/samosa.jpg" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/icons8-play-button-circled.gif" class="playPrd" alt="">
 </a>
                                     <div class="GridTitle wow slideInUp">Cheese Samosa</div>
                                         <div class="GridDet">
@@ -240,25 +240,25 @@
                     <div class="container">
                         <div class="row align-items-center partPg justify-content-center">
                             <div class="col-md-3 text-center">
-                                <a href="https://www.carrefouruae.com/mafuae/en/Feli's%20Kitchen/c/57274" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/carrefour.jpg" alt=""></a>
+                                <a href="https://www.carrefouruae.com/mafuae/en/Feli's%20Kitchen/c/57274" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/carrefour.jpg" alt=""></a>
                             </div>
                             <div class="col-md-3 text-center">
-                                <a href="https://www.spinneys.com/en-ae/search/?q=felis" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/spinneys.png" alt=""></a>
+                                <a href="https://www.spinneys.com/en-ae/search/?q=felis" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/spinneys.png" alt=""></a>
                             </div>
                             <div class="col-md-3 text-center">
-                                <a href="https://www.unioncoop.ae/catalogsearch/result/?q=felis" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/union_coop.jpg" alt=""></a>
+                                <a href="https://www.unioncoop.ae/catalogsearch/result/?q=felis" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/union_coop.jpg" alt=""></a>
                             </div>
                             <div class="col-md-3 text-center">
-                                <a href="https://www.sharjahcoop.ae/en/search/?text=felis" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/sharjahcoop.jpg" alt=""></a>
+                                <a href="https://www.sharjahcoop.ae/en/search/?text=felis" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/sharjahcoop.jpg" alt=""></a>
                             </div>
                              <div class="col-md-3 text-center">
-                                <a href="https://www.luluhypermarket.com" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/lulu.png" alt=""></a>
+                                <a href="https://www.luluhypermarket.com" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/lulu.png" alt=""></a>
                             </div>
                              <div class="col-md-3 text-center">
-                                <a href="https://www.choithrams.com/en/search/?q=felis" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/choithrams.jpg" alt=""></a>
+                                <a href="https://www.choithrams.com/en/search/?q=felis" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/choithrams.jpg" alt=""></a>
                             </div>
                             <div class="col-md-3 text-center">
-                                <a href="https://clickcuisineuae.com/collections/felis-kitchen" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/clickc.png" alt=""></a>
+                                <a href="https://clickcuisineuae.com/collections/felis-kitchen" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/clickc.png" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -268,10 +268,10 @@
                     <div class="container">
                         <div class="row align-items-center partPg justify-content-center">
                             <div class="col-md-3 text-center">
-                                <a href="https://danube.sa" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/Danube.png" alt=""></a>
+                                <a href="https://danube.sa" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Danube.png" alt=""></a>
                             </div>
                             <div class="col-md-3 text-center">
-                                <a href="https://www.farm.com.sa/" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/farm.png" alt=""></a>
+                                <a href="https://www.farm.com.sa/" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/farm.png" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -285,33 +285,33 @@
                     <div class="row m-0 p-0">
                         <div class="col-md-4 p-0">
                             <a href="https://www.instagram.com/feliskitchen/" target="_blank">
-                                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/instagram/Screen Shot 2021-11-06 at 7.17.33 PM.jpg" alt="">
+                                     <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/instagram/Screen Shot 2021-11-06 at 7.17.33 PM.jpg" alt="">
                             </a>
                            
                         </div>
                         <div class="col-md-4 p-0">
                             <a href="https://www.instagram.com/feliskitchen/" target="_blank">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/instagram/Screen Shot 2021-11-06 at 7.18.45 PM.jpg" alt="">
+                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/instagram/Screen Shot 2021-11-06 at 7.18.45 PM.jpg" alt="">
                             </a>
                         </div>
                         <div class="col-md-4 p-0">
                             <a href="https://www.instagram.com/feliskitchen/" target="_blank">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/instagram/Screen Shot 2021-11-06 at 7.19.04 PM.jpg" alt="">
+                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/instagram/Screen Shot 2021-11-06 at 7.19.04 PM.jpg" alt="">
                             </a>
                         </div>
                         <div class="col-md-4 p-0">
                             <a href="https://www.instagram.com/feliskitchen/" target="_blank">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/instagram/Screen Shot 2021-11-06 at 7.19.23 PM.jpg" alt="">
+                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/instagram/Screen Shot 2021-11-06 at 7.19.23 PM.jpg" alt="">
                             </a>
                         </div>
                         <div class="col-md-4 p-0">
                             <a href="https://www.instagram.com/feliskitchen/" target="_blank">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/instagram/Screen Shot 2021-11-06 at 7.20.03 PM.jpg" alt="">
+                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/instagram/Screen Shot 2021-11-06 at 7.20.03 PM.jpg" alt="">
                             </a>
                         </div>
                         <div class="col-md-4 p-0">
                             <a href="https://www.instagram.com/feliskitchen/" target="_blank">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/instagram/Screen Shot 2021-11-06 at 7.24.53 PM.jpg" alt="">
+                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/instagram/Screen Shot 2021-11-06 at 7.24.53 PM.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -361,7 +361,7 @@
                                     </div>
                                 </div>
                                 <div class="ContactRow1 wow slideInUp cnt-packet-prnt">
-                                    <img src="/wp-content/themes/feliskitchen/assets/images/felis-packets-min-min-new-1.jpg" class="cnt-packet" alt="packets">
+                                    <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/felis-packets-min-min-new-1.jpg" class="cnt-packet" alt="packets">
                                     <!-- <div class="ContactRow1Cnt">
                                         <div class="ContactRow1CntLeft">
                                             <span class="IconBox address">&nbsp;</span>
@@ -397,7 +397,7 @@
             <div class="Location">
                 <div class="LctTxt1  wow slideInUp">Where You Can Find Us</div>
                 <a href="#">
-                    <img class="width100  wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/css/afterimages/Map11-01.jpg" alt="">
+                    <img class="width100  wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/css/afterimages/Map11-01.jpg" alt="">
                 </a>
             </div>
 			

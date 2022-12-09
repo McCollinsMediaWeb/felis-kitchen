@@ -26,7 +26,7 @@
                          <a href="https://api.whatsapp.com/send?phone=971506446826&text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20Felis%20Kitchen" class="hover-black">Let's Chat</a>
                     </div>
                     <div class="Fl-Logo">
-                        <a href="/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-feliz.svg" alt=""></a>
+                        <a href="/"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/logo-feliz.svg" alt=""></a>
                     </div>
                     <div class="MenuClick">
                         <div class="MenuIcon">
@@ -106,7 +106,7 @@
                                     </div>
                                 </div>
                                 <div class="ContactRow1 wow slideInUp cnt-packet-prnt">
-                                    <img src="/wp-content/themes/feliskitchen/assets/images/felis-packets-min-min-new-1.jpg" class="cnt-packet" alt="packets">
+                                    <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/felis-packets-min-min-new-1.jpg" class="cnt-packet" alt="packets">
                                     <!-- <div class="ContactRow1Cnt">
                                         <div class="ContactRow1CntLeft">
                                             <span class="IconBox address">&nbsp;</span>
@@ -135,7 +135,7 @@
             <div class="Location">
                 <div class="LctTxt1  wow slideInUp">Where You Can Find Us</div>
                 <a href="#">
-                    <img class="width100  wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/css/afterimages/Map11-01.jpg" alt="">
+                    <img class="width100  wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/css/afterimages/Map11-01.jpg" alt="">
                 </a>
             </div>
         </main>

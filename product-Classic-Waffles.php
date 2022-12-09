@@ -7,7 +7,7 @@
                          <a href="https://api.whatsapp.com/send?phone=971506446826&text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20felis%20kitchen" class="hover-black">Let's Chat</a>
                     </div>
                     <div class="Fl-Logo">
-                        <a href="/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-feliz.svg" alt=""></a>
+                        <a href="/"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/logo-feliz.svg" alt=""></a>
                     </div>
                     <div class="MenuClick">
                         <div class="MenuIcon">
@@ -48,7 +48,7 @@
         <main>
             <div class="ProductDetailPage">
                 <div class="HeroSection">
-                    <div class="PrdImg1"><img class="wow slideInUp" src="/wp-content/themes/feliskitchen/productimages/Thumb/Classic Waffles.jpg" alt=""></div>
+                    <div class="PrdImg1"><img class="wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/Classic Waffles.jpg" alt=""></div>
                     <div class="container">
                          <div class="HeroSectionTxt wow slideInUp">Classic Waffles</div>
                     </div>
@@ -68,16 +68,16 @@
                                  <div class="listTxt3 wow slideInUp">
                                      <div class="listTxt1">Method 1</div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Toast in a toaster for 2-3 minutes to desired degree of crispness.</div>
                                      </div>
                                      <div class="listTxt1">Method 2</div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Pre-heat the oven at 200°C for 5 minutes. Put the frozen waffle on a baking tray and bake for 2-3 minutes. Do not defrost the waffles before baking.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Appliances vary so setting or time may need to be adjusted.</div>
                                      </div>
                                  </div> 
@@ -90,15 +90,15 @@
                                  <div class="listTxt1">Ingredients</div>
                                  <div class="listTxt3">
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Water, wheat flour, whole eggs, sunflower oil (not hydrogenated), sugar, oatmeal, soy flour, skimmed cow's milk powder, raising agents: Monocalcium phosphate, Sodium bicarbonate), yoghurt powder (cow's milk), salt.</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">Allergens: Wheat, oats, eggs, soy, milk</div>
                                      </div>
                                      <div class="RedRow wow slideInUp">
-                                         <div class="RedIcon"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt=""></div>
+                                         <div class="RedIcon"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt=""></div>
                                          <div class="RedText">No GMO - No preservatives - No colouring - No flavoring - Free range eggs - No hydrogenated oil</div>
                                      </div>
                                  </div> 
@@ -122,7 +122,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                             <a href="/product-details-cheese-bites/">
-                                                    <img src="/wp-content/themes/feliskitchen/productimages/Thumb/01-Cheese-bites-thumb-1.jpg"/>
+                                                    <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/01-Cheese-bites-thumb-1.jpg"/>
                                                     <div class="PrdName">Cheese Bites</div>
                                             </a>
                                          </div>
@@ -130,7 +130,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-cheese-rolls/">
-                                             <img src="/wp-content/themes/feliskitchen/productimages/Thumb/11-crunchya-apple-rolls-thumb.jpg"/>
+                                             <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/11-crunchya-apple-rolls-thumb.jpg"/>
                                              <div class="PrdName">Cheese rolls</div>
                                         </a>
                                          </div>
@@ -138,7 +138,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-white-cheese-olive-bites/">
-                                             <img src="/wp-content/themes/feliskitchen/productimages/Thumb/08-cheese-olive-bites-thumb.jpg"/>
+                                             <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/08-cheese-olive-bites-thumb.jpg"/>
                                              <div class="PrdName">White cheese & olive bites</div>
                                         </a>
                                          </div>
@@ -146,7 +146,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-puffy-bites-with-chocolate/">
-                                                <img src="/wp-content/themes/feliskitchen/productimages/Thumb/09-choclate-bites-thumb.jpg"/>
+                                                <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/09-choclate-bites-thumb.jpg"/>
                                                 <div class="PrdName">Puffy bites with chocolate</div>
                                            </a>
                                          </div>
@@ -154,7 +154,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-spinach-cheese-bites/">
-                                             <img src="/wp-content/themes/feliskitchen/productimages/Thumb/05-spinach-bites-with-cheese-thumb.jpg"/>
+                                             <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/05-spinach-bites-with-cheese-thumb.jpg"/>
                                              <div class="PrdName">Spinach & cheese bites</div>
                                         </a>
                                          </div>
@@ -162,7 +162,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-cheese-spinach-pie/">
-                                             <img src="/wp-content/themes/feliskitchen/productimages/Thumb/06-spinach-pie-thumb.jpg"/>
+                                             <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/06-spinach-pie-thumb.jpg"/>
                                              <div class="PrdName">Cheese & spinach pie</div>
                                         </a>
                                          </div>
@@ -170,7 +170,7 @@
                                      <div class="item">
                                          <div class="ProductItem wow slideInUp">
                                          <a href="/product-detail-spinach-cheese-rolls/">
-                                                <img src="/wp-content/themes/feliskitchen/productimages/Thumb/07-spinach-rolls-thumb.jpg"/>
+                                                <img src="https://mccollinsmediaweb.github.io/felis-kitchen/productimages/Thumb/07-spinach-rolls-thumb.jpg"/>
                                                 <div class="PrdName">Spinach & cheese rolls</div>
                                            </a>
                                          </div>
@@ -223,7 +223,7 @@
                                      </div>
                                  </div>
                                  <div class="ContactRow1 wow slideInUp cnt-packet-prnt">
-                                    <img src="/wp-content/themes/feliskitchen/assets/images/felis-packets-min.png" class="cnt-packet" alt="packets">
+                                    <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/felis-packets-min.png" class="cnt-packet" alt="packets">
                                     <!-- <div class="ContactRow1Cnt">
                                         <div class="ContactRow1CntLeft">
                                             <span class="IconBox address">&nbsp;</span>
@@ -258,7 +258,7 @@
              <div class="Location">
                  <div class="LctTxt1  wow slideInUp">Where You Can Find Us</div>
                  <a href="#">
-                     <img class="width100  wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/css/afterimages/Map11-01.jpg" alt="">
+                     <img class="width100  wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/css/afterimages/Map11-01.jpg" alt="">
                  </a>
              </div>
          </main>

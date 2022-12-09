@@ -26,7 +26,7 @@
                          <a href="https://api.whatsapp.com/send?phone=971506446826&text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20Felis%20Kitchen" class="hover-black">Let's Chat</a>
                     </div>
                     <div class="Fl-Logo">
-                        <a href="/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-feliz.svg" alt=""></a>
+                        <a href="/"><img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/logo-feliz.svg" alt=""></a>
                     </div>
                     <div class="MenuClick">
                         <div class="MenuIcon">
@@ -69,7 +69,7 @@
                 <div class="owl-carousel owl-theme hero">
                     <div class="item">
                         <div class="HeroContent">
-                            <img class="Hero-image" src="<?php echo get_template_directory_uri(); ?>/assets/images/ourstory-min.jpg"/>
+                            <img class="Hero-image" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/ourstory-min.jpg"/>
                             <div class="Text-Content">
                                 <div class="container">
                                     <div class="Txthero1">A Love Of Family<br/>
@@ -117,12 +117,12 @@ the table rather than chopping in the kitchen.</div>
                                               <h3>
                                                   <div class="AccItem">
                                                       <div class="AccLeft">
-                                                          <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt="">
+                                                          <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt="">
                                                       </div>
                                                       <div class="AccMiddle">Our Product Range</div>
                                                       <div class="AccRight">
-                                                          <img class="plus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 100.png" alt="">
-                                                          <img class="minus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 102.png" alt="">
+                                                          <img class="plus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 100.png" alt="">
+                                                          <img class="minus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 102.png" alt="">
                                                       </div>
                                                   </div>
                                               </h3>
@@ -134,12 +134,12 @@ the table rather than chopping in the kitchen.</div>
                                                 <h3>
                                                     <div class="AccItem">
                                                         <div class="AccLeft">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt="">
+                                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt="">
                                                         </div>
                                                         <div class="AccMiddle">Where can I order our products in UAE?</div>
                                                         <div class="AccRight">
-                                                            <img class="plus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 100.png" alt="">
-                                                            <img class="minus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 102.png" alt="">
+                                                            <img class="plus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 100.png" alt="">
+                                                            <img class="minus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 102.png" alt="">
                                                         </div>
                                                     </div>
                                                 </h3>
@@ -151,12 +151,12 @@ the table rather than chopping in the kitchen.</div>
                                                 <h3>
                                                     <div class="AccItem">
                                                         <div class="AccLeft">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt="">
+                                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt="">
                                                         </div>
                                                         <div class="AccMiddle">Is your food Halal-certified?</div>
                                                         <div class="AccRight">
-                                                            <img class="plus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 100.png" alt="">
-                                                            <img class="minus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 102.png" alt="">
+                                                            <img class="plus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 100.png" alt="">
+                                                            <img class="minus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 102.png" alt="">
                                                         </div>
                                                     </div>
                                                 </h3>
@@ -168,12 +168,12 @@ the table rather than chopping in the kitchen.</div>
                                                 <h3>
                                                     <div class="AccItem">
                                                         <div class="AccLeft">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt="">
+                                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt="">
                                                         </div>
                                                         <div class="AccMiddle">Bringing quality to you</div>
                                                         <div class="AccRight">
-                                                            <img class="plus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 100.png" alt="">
-                                                            <img class="minus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 102.png" alt="">
+                                                            <img class="plus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 100.png" alt="">
+                                                            <img class="minus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 102.png" alt="">
                                                         </div>
                                                     </div>
                                                 </h3>
@@ -190,12 +190,12 @@ Feli appreciates that sometimes you may want to be more adventurous with your me
                                                 <h3>
                                                     <div class="AccItem">
                                                         <div class="AccLeft">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt="">
+                                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt="">
                                                         </div>
                                                         <div class="AccMiddle">Bringing  convenience to you</div>
                                                         <div class="AccRight">
-                                                            <img class="plus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 100.png" alt="">
-                                                            <img class="minus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 102.png" alt="">
+                                                            <img class="plus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 100.png" alt="">
+                                                            <img class="minus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 102.png" alt="">
                                                         </div>
                                                     </div>
                                                 </h3>
@@ -212,12 +212,12 @@ Feli appreciates that sometimes you may want to be more adventurous with your me
                                                 <h3>
                                                     <div class="AccItem">
                                                         <div class="AccLeft">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 105.png" alt="">
+                                                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 105.png" alt="">
                                                         </div>
                                                         <div class="AccMiddle">A love of family and food</div>
                                                         <div class="AccRight">
-                                                            <img class="plus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 100.png" alt="">
-                                                            <img class="minus" src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 102.png" alt="">
+                                                            <img class="plus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 100.png" alt="">
+                                                            <img class="minus" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Group 102.png" alt="">
                                                         </div>
                                                     </div>
                                                 </h3>
@@ -260,7 +260,7 @@ Feli appreciates that sometimes you may want to be more adventurous with your me
                             </div>
                             <div class="youtubeFrame">
                                 <a href="https://www.youtube.com/embed/YKPac8hyrfk"  data-fancybox="gallery1">
-                                    <img class="wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/felisyoutube.png" alt="">
+                                    <img class="wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/felisyoutube.png" alt="">
                                 </a>
                             </div>
                         </div>
@@ -278,25 +278,25 @@ Feli appreciates that sometimes you may want to be more adventurous with your me
                     <div class="container">
                         <div class="row align-items-center partPg justify-content-center">
                             <div class="col-md-3 text-center">
-                                <a href="https://www.carrefouruae.com/mafuae/en/Feli's%20Kitchen/c/57274" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/carrefour.jpg" alt=""></a>
+                                <a href="https://www.carrefouruae.com/mafuae/en/Feli's%20Kitchen/c/57274" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/carrefour.jpg" alt=""></a>
                             </div>
                             <div class="col-md-3 text-center">
-                                <a href="https://www.spinneys.com/en-ae/search/?q=felis" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/spinneys.png" alt=""></a>
+                                <a href="https://www.spinneys.com/en-ae/search/?q=felis" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/spinneys.png" alt=""></a>
                             </div>
                             <div class="col-md-3 text-center">
-                                <a href="https://www.unioncoop.ae/catalogsearch/result/?q=felis" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/union_coop.jpg" alt=""></a>
+                                <a href="https://www.unioncoop.ae/catalogsearch/result/?q=felis" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/union_coop.jpg" alt=""></a>
                             </div>
                             <div class="col-md-3 text-center">
-                                <a href="https://www.sharjahcoop.ae/en/search/?text=felis" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/sharjahcoop.jpg" alt=""></a>
+                                <a href="https://www.sharjahcoop.ae/en/search/?text=felis" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/sharjahcoop.jpg" alt=""></a>
                             </div>
                              <div class="col-md-3 text-center">
-                                <a href="https://www.luluhypermarket.com" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/lulu.png" alt=""></a>
+                                <a href="https://www.luluhypermarket.com" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/lulu.png" alt=""></a>
                             </div>
                              <div class="col-md-3 text-center">
-                                <a href="https://www.choithrams.com/en/search/?q=felis" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/choithrams.jpg" alt=""></a>
+                                <a href="https://www.choithrams.com/en/search/?q=felis" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/choithrams.jpg" alt=""></a>
                             </div>
                             <div class="col-md-3 text-center">
-                                <a href="https://clickcuisineuae.com/collections/felis-kitchen" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/clickc.png" alt=""></a>
+                                <a href="https://clickcuisineuae.com/collections/felis-kitchen" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/clickc.png" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -306,10 +306,10 @@ Feli appreciates that sometimes you may want to be more adventurous with your me
                     <div class="container">
                         <div class="row align-items-center partPg justify-content-center">
                             <div class="col-md-3 text-center">
-                                <a href="https://danube.sa" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/Danube.png" alt=""></a>
+                                <a href="https://danube.sa" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/Danube.png" alt=""></a>
                             </div>
                             <div class="col-md-3 text-center">
-                                <a href="https://www.farm.com.sa/" target="_blank"><img class=" wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/images/farm.png" alt=""></a>
+                                <a href="https://www.farm.com.sa/" target="_blank"><img class=" wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/farm.png" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -323,33 +323,33 @@ Feli appreciates that sometimes you may want to be more adventurous with your me
                     <div class="row m-0 p-0">
                         <div class="col-md-4 p-0">
                             <a href="https://www.instagram.com/feliskitchen/" target="_blank">
-                                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/instagram/Screen Shot 2021-11-06 at 7.17.33 PM.jpg" alt="">
+                                     <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/instagram/Screen Shot 2021-11-06 at 7.17.33 PM.jpg" alt="">
                             </a>
                            
                         </div>
                         <div class="col-md-4 p-0">
                             <a href="https://www.instagram.com/feliskitchen/" target="_blank">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/instagram/Screen Shot 2021-11-06 at 7.18.45 PM.jpg" alt="">
+                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/instagram/Screen Shot 2021-11-06 at 7.18.45 PM.jpg" alt="">
                             </a>
                         </div>
                         <div class="col-md-4 p-0">
                             <a href="https://www.instagram.com/feliskitchen/" target="_blank">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/instagram/Screen Shot 2021-11-06 at 7.19.04 PM.jpg" alt="">
+                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/instagram/Screen Shot 2021-11-06 at 7.19.04 PM.jpg" alt="">
                             </a>
                         </div>
                         <div class="col-md-4 p-0">
                             <a href="https://www.instagram.com/feliskitchen/" target="_blank">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/instagram/Screen Shot 2021-11-06 at 7.19.23 PM.jpg" alt="">
+                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/instagram/Screen Shot 2021-11-06 at 7.19.23 PM.jpg" alt="">
                             </a>
                         </div>
                         <div class="col-md-4 p-0">
                             <a href="https://www.instagram.com/feliskitchen/" target="_blank">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/instagram/Screen Shot 2021-11-06 at 7.20.03 PM.jpg" alt="">
+                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/instagram/Screen Shot 2021-11-06 at 7.20.03 PM.jpg" alt="">
                             </a>
                         </div>
                         <div class="col-md-4 p-0">
                             <a href="https://www.instagram.com/feliskitchen/" target="_blank">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/instagram/Screen Shot 2021-11-06 at 7.24.53 PM.jpg" alt="">
+                            <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/instagram/Screen Shot 2021-11-06 at 7.24.53 PM.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -399,7 +399,7 @@ Feli appreciates that sometimes you may want to be more adventurous with your me
                                     </div>
                                 </div>
                                 <div class="ContactRow1 wow slideInUp cnt-packet-prnt">
-                                    <img src="/wp-content/themes/feliskitchen/assets/images/felis-packets-min-min-new-1.jpg" class="cnt-packet" alt="packets">
+                                    <img src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/images/felis-packets-min-min-new-1.jpg" class="cnt-packet" alt="packets">
                                     <!-- <div class="ContactRow1Cnt">
                                         <div class="ContactRow1CntLeft">
                                             <span class="IconBox address">&nbsp;</span>
@@ -428,7 +428,7 @@ Feli appreciates that sometimes you may want to be more adventurous with your me
             <div class="Location">
                 <div class="LctTxt1  wow slideInUp">Where You Can Find Us</div>
                 <a href="#">
-                    <img class="width100  wow slideInUp" src="<?php echo get_template_directory_uri(); ?>/assets/css/afterimages/Map11-01.jpg" alt="">
+                    <img class="width100  wow slideInUp" src="https://mccollinsmediaweb.github.io/felis-kitchen/assets/css/afterimages/Map11-01.jpg" alt="">
                 </a>
             </div>
         </main>
